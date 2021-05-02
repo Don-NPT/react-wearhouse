@@ -1,13 +1,13 @@
 # react-wearhouse
 
-folder
+# folder
  > client
     - public
     - src
  > server
      - index.js
 
-client
+# client
   > npm install --save body-parser cookie-parser cors express express-session mysql nodemon
-server
+# server
   > npm install --save axios react-router-dom styled-components
