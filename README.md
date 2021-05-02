@@ -1,10 +1,10 @@
 # react-wearhouse
 
 # folder
- > client
+ ### client
     - public
     - src
- > server
+ ### server
      - index.js
 
 # client
